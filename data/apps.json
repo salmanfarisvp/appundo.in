@@ -143,12 +143,22 @@
   },
   {
     "id": "vagdanam",
-    "name": "vagdanam.delb.in",
+    "name": "Vagdanam.delb.in",
     "description": "An online board where all the 'vagdanams' (promises) made by political parties are listed.",
     "url": "https://vagdanam.delb.in/",
     "category": "Govt",
     "tags": ["promise", "government", "politics"],
     "addedBy": "admin",
     "icon": "🤝"
+  },
+  {
+    "id": "autofare.keralam.",
+    "name": "Autofare.keralam.co",
+    "description": "Calculate the fare for your Auto, Bus or Taxi ride in Kerala",
+    "url": "https://autofare.keralam.co/",
+    "category": "Transport",
+    "tags": ["transport", "fare", "calculator"],
+    "addedBy": "admin",
+    "icon": "🚕"
   }
 ]
