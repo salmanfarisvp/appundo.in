@@ -1,0 +1,72 @@
+name: New App Submission
+description: Suggest a web app to add to the Kerala directory
+title: "[App]: "
+labels: ["new-app", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing! Please fill in the details below. A maintainer will review and add it to `data/apps.json`.
+
+  - type: input
+    id: name
+    attributes:
+      label: App Name
+      description: The display name of the app
+      placeholder: e.g. Gas Undo
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: Full URL including https://
+      placeholder: https://example.com
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: One or two sentences describing what the app does
+      placeholder: Helps Kerala residents check LPG delivery status without an app.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Weather
+        - Utilities
+        - Govt
+        - Transport
+        - News
+        - Tools
+        - Health
+        - Education
+        - Fun
+    validations:
+      required: true
+
+  - type: input
+    id: tags
+    attributes:
+      label: Tags
+      description: Comma-separated tags (lowercase, no spaces)
+      placeholder: kerala, lpg, delivery
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: The app is actually useful for people in Kerala
+          required: true
+        - label: The URL is working and publicly accessible
+          required: true
+        - label: This app is not already listed in the directory
+          required: true

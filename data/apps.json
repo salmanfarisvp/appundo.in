@@ -1,0 +1,31 @@
+[
+  {
+    "id": "gasundo",
+    "name": "Gas Undo",
+    "description": "Find restaurants open in Ernakulam, limited-menu updates, and closures in real time.",
+    "url": "https://www.gasundo.live/",
+    "category": "Utilities",
+    "tags": ["kerala", "lpg", "gas", "delivery"],
+    "addedBy": "admin",
+    "addedAt": "2024-01-01"
+  },
+  {
+    "id": "mazha",
+    "name": "Mazha",
+    "description": "Crowdsourced Hyperlocal rainfall data and weather updates for Kerala, Know when it will rain near you.",
+    "url": "https://www.mazha.live/",
+    "category": "Weather",
+    "tags": ["kerala", "rain", "weather", "forecast"],
+    "addedBy": "admin",
+    "addedAt": "2024-01-02"
+  },
+  {
+    "id": "kuzhiyundo",
+    "name": "Kuzhiyundo",
+    "description": "Community-driven map where residents of Kerala can report, track, and vote on road potholes in their area",
+    "url": "https://www.kuzhiyundo.com/",
+    "category": "Tools",
+    "tags": ["kerala", "road", "pothole", "map"],
+    "addedBy": "admin"
+  }
+]

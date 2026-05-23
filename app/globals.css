@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+
+@layer base {
+  :root {
+    --background: 249 250 251;
+    --foreground: 17 24 39;
+  }
+
+  .dark {
+    --background: 17 24 39;
+    --foreground: 243 244 246;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-gray-50 text-gray-900 dark:bg-gray-900 dark:text-gray-100 transition-colors duration-200;
+  }
+}
+
+@layer components {
+  .app-card {
+    @apply bg-white dark:bg-gray-800 rounded-2xl p-5 shadow-sm border border-gray-100 dark:border-gray-700
+           hover:shadow-md hover:-translate-y-0.5 transition-all duration-200 flex flex-col gap-3;
+  }
+
+  .category-pill {
+    @apply text-xs font-medium px-2.5 py-1 rounded-full;
+  }
+
+  .btn-filter {
+    @apply px-4 py-2 rounded-full text-sm font-medium transition-colors duration-150
+           border border-gray-200 dark:border-gray-700
+           text-gray-600 dark:text-gray-400
+           hover:bg-gray-100 dark:hover:bg-gray-800;
+  }
+
+  .btn-filter-active {
+    @apply bg-green-600 text-white border-green-600 hover:bg-green-700 dark:border-green-600 dark:hover:bg-green-700;
+  }
+}
