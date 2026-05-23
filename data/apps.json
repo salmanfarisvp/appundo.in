@@ -25,7 +25,7 @@
     "id": "kuzhiyundo",
     "name": "Kuzhiyundo.com",
     "description": "Community-driven map where residents of Kerala can report, track, and vote on road potholes in their area",
-    "url": "https://www.kuzhiyundo.com/",
+    "url": "https://kuzhiyundo.com/",
     "category": "Tools",
     "tags": ["road", "pothole", "map"],
     "addedBy": "admin",
@@ -52,7 +52,7 @@
     "icon": "✉️"
   },
   {
-    "id": "currentundo",
+    "id": "currentundo.com",
     "name": "Current Undo",
     "description": "നിങ്ങളുടെ പ്രദേശത്ത് കറന്റ് പോയോ? — Know the electricity status in your area",
     "url": "https://currentundo.com/",
