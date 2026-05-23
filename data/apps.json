@@ -180,5 +180,15 @@
     "tags": ["transport", "bus", "timings"],
     "addedBy": "admin",
     "icon": "🚌"
+  },
+  {
+    "id": "pennundo",
+    "name": "pennundo.in",
+    "description": "പെണ്ണുണ്ടോ - കല്യാണം ആലോചിക്കുന്നുണ്ടോ? മലയാളികൾക്കിടയിൽ പേരെടുത്ത മാട്രിമോണി സൈറ്റുകളും, ജീവിതപങ്കാളിയെ കണ്ടെത്താൻ സഹായിക്കുന്ന ആപ്പുകളും ഇവിടെ കാണാം. സമുദായം നോക്കി എളുപ്പത്തിൽ താരതമ്യം ചെയ്യാം.",
+    "url": "https://pennundo.in/",
+    "category": "Community",
+    "tags": ["community", "life", "marriage"],
+    "addedBy": "admin",
+    "icon": "💍"
   }
 ]
