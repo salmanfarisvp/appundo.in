@@ -52,8 +52,8 @@
     "icon": "✉️"
   },
   {
-    "id": "currentundo.com",
-    "name": "Current Undo",
+    "id": "currentundo",
+    "name": "Currentundo.com",
     "description": "നിങ്ങളുടെ പ്രദേശത്ത് കറന്റ് പോയോ? — Know the electricity status in your area",
     "url": "https://currentundo.com/",
     "category": "Tools",
@@ -70,5 +70,45 @@
     "tags": ["news", "water", "level"],
     "addedBy": "admin",
     "icon": "🌊"
+  },
+  {
+    "id": "mazhaundo.in",
+    "name": "Mazhaundo.in",
+    "description": "Real-time rain status for Kerala",
+    "url": "https://mazhaundo.in/",
+    "category": "Weather",
+    "tags": ["rain", "weather", "forecast"],
+    "addedBy": "admin",
+    "icon": "🌧️"
+  },
+  {
+    "id": "naatilepani",
+    "name": "Naatilepani.com",
+    "description": "നിങ്ങളുടെ അടുത്തുള്ള വിശ്വസ്ത ഹോം സർവീസുകൾ ബുക്ക് ചെയ്യൂ.",
+    "url": "https://naatilepani.com/",
+    "category": "Tools",
+    "tags": ["home", "service", "book"],
+    "addedBy": "admin",
+    "icon": "🛠️"
+  },
+  {
+    "id": "vakku",
+    "name": "Vakku.in",
+    "description": "യുഡിഎഫിന്റെ വാക്ക് പറഞ്ഞത് എന്ത്, ചെയ്തത് എന്ത് / Tracking Every Promise Made by UDF to the People of Kerala",
+    "url": "https://www.vakku.in/",
+    "category": "Govt",
+    "tags": ["promise", "government", "politics"],
+    "addedBy": "admin",
+    "icon": "🎤"
+  },
+  {
+    "id": "mlatrack",
+    "name": "MLATrack.com",
+    "description": "Promote transparency and public understanding of the work of Kerala MLAs",
+    "url": "https://mlatrack.com/",
+    "category": "Govt",
+    "tags": ["mla", "government", "politics"],
+    "addedBy": "admin",
+    "icon": "🔎"
   }
 ]
