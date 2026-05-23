@@ -33,9 +33,9 @@
   },
   {
     "id": "whats-happening-in-kerala",
-    "name": "What's happening in Kerala",
+    "name": "what-s-happening-in-kerala.vercel.app/",
     "description": "What's happening in Kerala, news, events, weather, movies, and more",
-    "url": "https://what-s-happening-in-kerala.vercel.app/",
+    "url": "https://what-s-happening-in-kerala",
     "category": "News",
     "tags": ["news", "events", "calendar"],
     "addedBy": "admin",
@@ -130,5 +130,15 @@
     "tags": ["food", "health", "mandi"],
     "addedBy": "admin",
     "icon": "🍛"
+  },
+  {
+    "id": "holidayskerala.in",
+    "name": "Holidayskerala.in",
+    "description": "Kerala public holidays, bank holidays, school holidays, and more",
+    "url": "https://holidayskerala.in/",
+    "category": "Tools",
+    "tags": ["public", "calendar", "holidays"],
+    "addedBy": "admin",
+    "icon": "🗓️"
   }
 ]
