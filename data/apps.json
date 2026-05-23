@@ -170,5 +170,15 @@
     "tags": ["transport", "seat", "shade"],
     "addedBy": "admin",
     "icon": "🌤️"
+  },
+  {
+    "id": "evidebus",
+    "name": "Evidebus.com",
+    "description": "Community-driven public transport network. Find KSRTC and Private bus timings, stops, and routes easily.",
+    "url": "https://evidebus.com/",
+    "category": "Transport",
+    "tags": ["transport", "bus", "timings"],
+    "addedBy": "admin",
+    "icon": "🚌"
   }
 ]
