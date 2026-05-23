@@ -122,7 +122,7 @@
     "icon": "🚓"
   },
   {
-    "id": "mandi.theeta.in",
+    "id": "mandi.theeta",
     "name": "Mandi.theeta.in",
     "description": "Every mandi matters. Log your mandi sessions, mayo decisions, and soft drink damage.",
     "url": "https://mandi.theeta.in/",
@@ -132,7 +132,7 @@
     "icon": "🍛"
   },
   {
-    "id": "holidayskerala.in",
+    "id": "holidayskerala",
     "name": "Holidayskerala.in",
     "description": "Kerala public holidays, bank holidays, school holidays, and more",
     "url": "https://holidayskerala.in/",
@@ -140,5 +140,15 @@
     "tags": ["public", "calendar", "holidays"],
     "addedBy": "admin",
     "icon": "🗓️"
+  },
+  {
+    "id": "vagdanam",
+    "name": "vagdanam.delb.in",
+    "description": "An online board where all the 'vagdanams' (promises) made by political parties are listed.",
+    "url": "https://vagdanam.delb.in/",
+    "category": "Govt",
+    "tags": ["promise", "government", "politics"],
+    "addedBy": "admin",
+    "icon": "🤝"
   }
 ]
