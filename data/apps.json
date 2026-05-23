@@ -27,5 +27,32 @@
     "category": "Tools",
     "tags": ["kerala", "road", "pothole", "map"],
     "addedBy": "admin"
+  },
+  {
+    "id": "whats-happening-in-kerala",
+    "name": "What's happening in Kerala",
+    "description": "What's happening in Kerala, news, events, weather, movies, and more",
+    "url": "https://what-s-happening-in-kerala.vercel.app/",
+    "category": "News",
+    "tags": ["kerala", "news", "events", "calendar"],
+    "addedBy": "admin"
+  },
+  {
+    "id": "parathipetty",
+    "name": "Parathipetty",
+    "description": "പരാതിപ്പെട്ടി. Kerala's public complaint box, on WhatsApp",
+    "url": "https://parathipetty.com/",
+    "category": "Tools",
+    "tags": ["kerala", "parathipetty", "complaint", "whatsapp"],
+    "addedBy": "admin"
+  },
+  {
+    "id": "currentundo",
+    "name": "Current Undo",
+    "description": "നിങ്ങളുടെ പ്രദേശത്ത് കറന്റ് പോയോ? — Know the electricity status in your area",
+    "url": "https://currentundo.com/",
+    "category": "Tools",
+    "tags": ["kerala", "current", "electricity", "power"],
+    "addedBy": "admin"
   }
 ]
