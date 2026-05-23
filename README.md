@@ -1,14 +1,10 @@
-# appundo.in / ആപ്പ് ഉണ്ടോ.in — Kerala Web Apps Directory
+# appundo.in / ആപ്പ് ഉണ്ടോ.in — Kerala App Directory
 
-A community-curated directory of useful web apps built for Kerala. From weather forecasts to government services, all in one place.
+A curated directory of hyper-local web utilities and community-built tools across Kerala - നാട്ടിലെ ആപ്പുകൾ ഒരൊറ്റ പേജിൽ.
 
 **Live at:** [appundo.in](https://appundo.in)
 
 ---
-
-## What's in the list?
-
-Apps useful for people living in or related to Kerala — weather, government portals, transport, news, utilities, and more.
 
 ## Contributing
 
