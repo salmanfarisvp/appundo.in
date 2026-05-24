@@ -200,5 +200,25 @@
     "tags": ["transport", "seat", "shade"],
     "addedBy": "admin",
     "icon": "🌤️"
+  },
+  {
+    "id": "govt-promises",
+    "name": "govt-promises.vercel.app",
+    "description": "യു.ഡി.എഫ് വാഗ്ദാനങ്ങൾ UDF Manifesto Tracker.",
+    "url": "https://govt-promises.vercel.app/",
+    "category": "Govt",
+    "tags": ["promise", "government", "politics"],
+    "addedBy": "admin",
+    "icon": "📝"
+  },
+  {
+    "id": "joliundo",
+    "name": "Joliundo.in",
+    "description": "ജോലി ഉണ്ടോ? - The platform with jobs, startups, remote work & internships for Malayali students, graduates & job seekers. ",
+    "url": "https://www.joliundo.in/",
+    "category": "Jobs",
+    "tags": ["jobs", "startups", "work"],
+    "addedBy": "admin",
+    "icon": "💼"
   }
 ]
