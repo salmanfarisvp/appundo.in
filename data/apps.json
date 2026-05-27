@@ -227,5 +227,127 @@
     "tags": ["jobs", "startups", "work"],
     "addedBy": "admin",
     "icon": "💼"
+  },
+  {
+    "id": "raksha",
+    "name": "rakshalive.vercel.app",
+    "description": "RAKSHA is a Malayalam-first, mobile-friendly disaster intelligence network. It empowers citizens to instantly report floods, landslides, blocked roads, and rising water levels directly from the ground—providing hyperlocal, real-time safety mapping.",
+    "url": "https://rakshalive.vercel.app/",
+    "category": "Tools",
+    "tags": ["floods", "landslides", "safety"],
+    "addedBy": "admin",
+    "icon": "🚨"
+  },
+  {
+    "id": "kallanumpoliceum",
+    "name": "Kallanumpoliceum.online",
+    "description": "Digitalised Childhood kallanum policeum game",
+    "url": "https://www.kallanumpoliceum.online/",
+    "category": "Utilities",
+    "tags": ["game", "board", "fun"],
+    "addedBy": "admin",
+    "icon": "🧩"
+  },
+  {
+    "id": "busundo",
+    "name": "Busundo.com",
+    "description": "Community-powered bus data for Kerala",
+    "url": "https://busundo.in/",
+    "category": "Transport",
+    "categoryTags": ["Und/ഉണ്ട്"],
+    "tags": ["transport", "bus", "timings"],
+    "addedBy": "admin",
+    "icon":"🚌"
+  },
+  {
+    "id": "explorekerala",
+    "name": "Explorekerala.live",
+    "description": "Community-driven map of 100+ hidden gems — waterfalls, forts, backwaters, and beaches across God's Own Country.",
+    "url": "https://www.explorekerala.live/",
+    "category": "Travel",
+    "tags": ["directory", "tools", "kerala"],
+    "addedBy": "admin",
+    "icon": "🗺️"
+  },
+  {
+    "id": "chayaspot",
+    "name": "Chayaspot.in",
+    "description": "ഒരു നല്ല ചായ കുടിച്ചാലോ? - Community-driven map of Chaya spots in Kerala",
+    "url": "https://www.chayaspot.in/",
+    "category": "Travel",
+    "tags": ["chaya", "kerala", "spot"],
+    "addedBy": "admin",
+    "icon": "☕️"
+  },
+  {
+    "id": "keralatrak",
+    "name": "Keralatrak.in",
+    "description": "A List of Breathtaking Mountains of Kerala",
+    "url": "https://keralatrak.in/",
+    "category": "Travel",
+    "tags": ["mountains", "kerala", "trek"],
+    "addedBy": "admin",
+    "icon": "⛰️"
+  },
+  {
+    "id": "sanamundo",
+    "name": "Sanamundo.online",
+    "description": "Community-driven gifting space where your pre-loved items find new homes. No buying, no selling, no clutter just the simple joy of sharing.",
+    "url": "https://www.sanamundo.online/",
+    "category": "Community",
+    "categoryTags": ["Und/ഉണ്ട്"],
+    "tags": ["gifting", "kerala", "sharing"],
+    "addedBy": "admin",
+    "icon": "🎁"
+  },
+  {
+    "id": "vaagdaanam",
+    "name": "Vaagdaanam.keralaballot.in",
+    "description": "കേരളത്തിലെ പുതിയ സർക്കാർ നൽകിയ വാഗ്ദാനങ്ങൾ — ഓരോന്നായി. എപ്പോൾ വേണമെങ്കിലും തിരയാം, പരിശോധിക്കാം.",
+    "url": "https://vaagdaanam.keralaballot.in/",
+    "category": "Govt",
+    "tags": ["promise", "government", "politics"],
+    "addedBy": "admin",
+    "icon": "📝"
+  },
+  {
+    "id": "pathemari",
+    "name": "Pathemari.vercel.app",
+    "description": "Swagatham, Pravasi! - Your essential daily pulse, bridging the distance from global horizons to the heart of God's Own Country. ",
+    "url": "https://pathemari.vercel.app/",
+    "category": "Community",
+    "tags": ["community", "kerala", "NRI"],
+    "addedBy": "admin",
+    "icon": "🌍"
+  },
+  {
+    "id": "laundrytoday",
+    "name": "Laundrytoday.vercel.app",
+    "description": "“ഇന്ന് തുണി പുറത്തിട്ടാൽ ഉണങ്ങുമോ ഇല്ലയോ?",
+    "url": "https://laundrytoday.vercel.app/",
+    "category": "Tools",
+    "tags": ["laundry", "kerala", "today"],
+    "addedBy": "admin",
+    "icon": "🧺"
+  },
+  {
+    "id": "muttayi.",
+    "name": "Muttayi.com",
+    "description": "Find your perfect telecom plan for your needs.",
+    "url": "https://muttayi.com/",
+    "category": "Tools",
+    "tags": ["kerala", "telecom", "plan"],
+    "addedBy": "admin",
+    "icon": "📞"
+  },
+  {
+    "id": "nilambur",
+    "name": "Nilambur.in",
+    "description": "The official digital community portal for Nilambur",
+    "url": "https://nilambur.in/",
+    "category": "Community",
+    "tags": ["community", "nilambur", "connect"],
+    "addedBy": "admin",
+    "icon": "📍"
   }
 ]
