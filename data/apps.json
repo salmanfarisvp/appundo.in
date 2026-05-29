@@ -376,6 +376,7 @@
     "description": "Real-time emergency blood donation matching and community life-saving alerts. Powered by the people, for the people.",
     "url": "https://bloodundo.vercel.app/",
     "category": "Community",
+    "categoryTags": ["Und/ഉണ്ട്"],
     "tags": ["blood", "donation", "community"],
     "addedBy": "admin",
     "icon": "🏥"
