@@ -46,7 +46,7 @@ export default function HomePage() {
             </a>
             <span>·</span>
             <a
-              href="https://github.com/salmanfarisvp/appundo.in/issues/new/choose"
+              href="https://github.com/salmanfarisvp/appundo.in/issues/new?template=bug-report.yml"
               className="hover:text-green-600 transition-colors"
               target="_blank"
               rel="noopener noreferrer"
