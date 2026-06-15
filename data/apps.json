@@ -122,7 +122,7 @@
     "url": "https://policeundo.lovable.app/",
     "category": "Transport",
     "categoryTags": ["Und/ഉണ്ട്"],
-    "tags": ["police","accidents", "floods"],
+    "tags": ["police", "accidents", "floods"],
     "addedBy": "admin",
     "icon": "🚓"
   },
@@ -257,7 +257,7 @@
     "categoryTags": ["Und/ഉണ്ട്"],
     "tags": ["transport", "bus", "timings"],
     "addedBy": "admin",
-    "icon":"🚌"
+    "icon": "🚌"
   },
   {
     "id": "explorekerala",
