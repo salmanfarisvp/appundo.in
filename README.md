@@ -22,7 +22,10 @@ This is an open-source, community-driven project. Anyone can add an app.
      "url": "https://myapp.example.com",
      "category": "Utilities",
      "tags": ["kerala", "tag1", "tag2"],
-     "addedBy": "your-github-username"
+     "addedBy": "your-github-username",
+     "addedAt": "2024-06-01", //YYYY-MM-DD
+     "creator": "your-name",
+     "creatorUrl": "your-portfolio-or-social-link-any-one"
    }
    ```
 3. Open a Pull Request
@@ -41,6 +44,8 @@ Open an Issue using the **New App Submission** template and a maintainer will ad
 | `url` | ✅ | Full URL with `https://` |
 | `category` | ✅ | One of: `Weather`, `Utilities`, `Govt`, `Transport`, `News`, `Tools`, `Health`, `Education`, `Fun` |
 | `tags` | ✅ | Array of lowercase strings |
+| `creator` | ✅ | Your name to be shown in the website |
+| `creatorUrl` | ✅ | Your portfolio or social link, any one. Must start with `https://` |
 | `addedBy` | ❌ | Your GitHub username |
 | `addedAt` | ❌ | Date added (`YYYY-MM-DD`) |
 | `icon` | ❌ | Emoji to use as icon |

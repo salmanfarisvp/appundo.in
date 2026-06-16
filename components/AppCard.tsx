@@ -1,3 +1,5 @@
+"use client";
+
 import { App } from "@/types/app";
 import { CATEGORY_META } from "./CategoryFilter";
 import { timeAgo } from "@/utils/TimeAgo";
@@ -56,8 +58,28 @@ export default function AppCard({ app }: AppCardProps) {
         {app.description}
       </p>
 
-      <div className="mt-2 text-[12px] text-gray-600 dark:text-gray-400 leading-relaxed line-clamp-1">
-        <p>{app.addedAt ? timeAgo(app.addedAt) : ""}</p>
+      <div className="w-full flex justify-between items-center">
+        {app.addedAt && (
+          <div className="p-1 mt-2 text-[12px] text-gray-600 dark:text-gray-400 leading-relaxed line-clamp-1">
+            <p>{timeAgo(app.addedAt)}</p>
+          </div>
+        )}
+
+        {app.creator && (
+          <div
+            onClick={() =>
+              app.creatorUrl ? window.open(app.creatorUrl, "__blank") : null
+            }
+            className={`p-1 mt-2 text-[12px] text-gray-600 dark:text-gray-400 leading-relaxed line-clamp-1`}
+          >
+            <p>
+              By{" "}
+              <span className="underline underline-offset-2">
+                {app.creator}
+              </span>
+            </p>
+          </div>
+        )}
       </div>
 
       <div className="flex flex-wrap gap-1.5 mt-2 pt-1">

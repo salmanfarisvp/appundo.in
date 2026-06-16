@@ -4,7 +4,8 @@ import ContributeSection from "@/components/ContributeSection";
 
 export const metadata = {
   title: "Contribute — appundo.in",
-  description: "A curated directory of hyper-local web utilities and community-built tools across Kerala",
+  description:
+    "A curated directory of hyper-local web utilities and community-built tools across Kerala",
 };
 
 export default function ContributePage() {

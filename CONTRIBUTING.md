@@ -25,7 +25,9 @@ Open `/data/apps.json` and add a new object to the array:
   "category": "Utilities",
   "tags": ["kerala", "relevant-tag"],
   "addedBy": "your-github-username",
-  "addedAt": "2024-06-01"
+  "addedAt": "2024-06-01", //YYYY-MM-DD
+  "creator": "your-name",
+  "creatorUrl": "your-portfolio-or-social-link-any-one"
 }
 ```
 
@@ -35,6 +37,8 @@ Open `/data/apps.json` and add a new object to the array:
 - `category` must be one of: `Weather`, `Utilities`, `Govt`, `Transport`, `News`, `Tools`, `Health`, `Education`, `Fun`
 - `tags` should be lowercase, no spaces (use hyphens for multi-word tags)
 - Don't add duplicate apps — check the existing list first
+- `addedAt` must be strictly in the format YYYY-MM-DD
+- Add only one link to `creatorUrl`, it must start with `https://`
 
 ### Step 3 — Test locally
 
