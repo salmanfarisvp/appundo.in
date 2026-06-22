@@ -616,5 +616,15 @@
     "tags": ["pee", "restroom", "location"],
     "addedBy": "admin",
     "icon": "🚽"
+  },
+  {
+    "id": "samadhanamundo",
+    "name": "Wheretopee.lovable.app",
+    "description": "Where to pee? A crowdsourced map of public restrooms across the state. Find the nearest restroom, check availability, and go. Pinned by real people who've actually used it.",
+    "url": "https://wheretopee.lovable.app/",
+    "category": "Tools",
+    "tags": ["pee", "restroom", "location"],
+    "addedBy": "admin",
+    "icon": "🚽"
   }
 ]
