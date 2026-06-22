@@ -619,12 +619,13 @@
   },
   {
     "id": "samadhanamundo",
-    "name": "Wheretopee.lovable.app",
-    "description": "Where to pee? A crowdsourced map of public restrooms across the state. Find the nearest restroom, check availability, and go. Pinned by real people who've actually used it.",
-    "url": "https://wheretopee.lovable.app/",
+    "name": "Samadhanam-undo.vercel.app",
+    "description": "a hand-picked collection of podcast episodes from Simon Sinek, Mel Robbins, and Dr. Gabor Maté for moments when you need clarity, motivation, or calm. Free, no login, works on any device.",
+    "url": "https://samadhanam-undo.vercel.app/",
     "category": "Tools",
-    "tags": ["pee", "restroom", "location"],
+    "categoryTags": ["Und/ഉണ്ട്"],
+    "tags": ["peace", "podcast", "mindfulness"],
     "addedBy": "admin",
-    "icon": "🚽"
+    "icon": "☮️"
   }
 ]
