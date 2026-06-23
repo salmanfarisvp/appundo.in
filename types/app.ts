@@ -9,6 +9,7 @@ export type AppDisplayCategory =
   | "Fun"
   | "News"
   | "Transport"
+  | "Travel"
   | "Health"
   | "Education"
   | "Community"

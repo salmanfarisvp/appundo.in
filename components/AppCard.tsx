@@ -1,54 +1,77 @@
+"use client";
+
+import { useRef } from "react";
 import { App } from "@/types/app";
 import { CATEGORY_META } from "./CategoryFilter";
+import ExternalLinkIcon from "@/components/ui/external-link-icon";
+import { getAppIcon } from "@/lib/icon-map";
+import type { AnimatedIconHandle } from "@/components/ui/types";
 
 interface AppCardProps {
   app: App;
 }
 
 export default function AppCard({ app }: AppCardProps) {
-  const meta = CATEGORY_META[app.category] ?? { emoji: "🔗", color: "bg-gray-100 text-gray-700 dark:bg-gray-700 dark:text-gray-300" };
+  const meta = CATEGORY_META[app.category];
+  const AppIcon = getAppIcon(app.icon);
+  const color = meta?.color ?? "bg-gray-100 text-gray-700 dark:bg-gray-800 dark:text-gray-300";
+
+  const linkIconRef = useRef<AnimatedIconHandle>(null);
+  const appIconRef = useRef<AnimatedIconHandle>(null);
+
+  const onEnter = () => {
+    linkIconRef.current?.startAnimation();
+    appIconRef.current?.startAnimation();
+  };
+  const onLeave = () => {
+    linkIconRef.current?.stopAnimation();
+    appIconRef.current?.stopAnimation();
+  };
 
   return (
     <a
       href={app.url}
       target="_blank"
       rel="noopener noreferrer"
-      className="app-card group block"
+      className="app-card group"
       aria-label={`Visit ${app.name}`}
+      onMouseEnter={onEnter}
+      onMouseLeave={onLeave}
     >
-      <div className="flex items-start justify-between gap-3">
-        <div className="flex items-center gap-3 min-w-0">
-          <div className="w-10 h-10 rounded-xl bg-gray-100 dark:bg-gray-700 flex items-center justify-center text-xl flex-shrink-0 group-hover:scale-110 transition-transform duration-200">
-            {app.icon ?? meta.emoji}
-          </div>
-          <div className="min-w-0">
-            <h2 className="font-semibold text-gray-900 dark:text-white leading-tight truncate">
-              {app.name}
-            </h2>
-            <span className={`category-pill ${meta.color} mt-0.5 inline-block`}>
-              {app.category}
-            </span>
-          </div>
+      <div className="flex items-center gap-3">
+        {/* App icon */}
+        <div className="w-10 h-10 sm:w-11 sm:h-11 rounded-xl bg-gray-50 dark:bg-[#252838] flex items-center justify-center text-gray-500 dark:text-gray-400 flex-shrink-0 border border-gray-100 dark:border-gray-700/50">
+          <AppIcon ref={appIconRef} size={18} />
         </div>
 
-        <div className="flex-shrink-0 p-2 rounded-lg text-gray-400 group-hover:text-green-600 group-hover:bg-green-50 dark:group-hover:bg-green-900/20 transition-colors">
-          <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-            <path strokeLinecap="round" strokeLinejoin="round" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-          </svg>
+        {/* Info */}
+        <div className="flex-1 min-w-0">
+          <h3 className="font-semibold text-gray-900 dark:text-white text-[13px] leading-tight truncate">
+            {app.name}
+          </h3>
+          <span className={`inline-block text-[10px] font-medium px-1.5 py-0.5 rounded mt-0.5 ${color}`}>
+            {app.category}
+          </span>
         </div>
+
+        {/* Visit CTA - always visible on mobile, hover-only on desktop */}
+        <span className="btn-visit flex-shrink-0 sm:opacity-0 sm:group-hover:opacity-100 transition-opacity">
+          <ExternalLinkIcon ref={linkIconRef} size={11} />
+          Visit
+        </span>
       </div>
 
-      <p className="text-sm text-gray-600 dark:text-gray-400 leading-relaxed line-clamp-2">
+      <p className="text-[12px] text-gray-500 dark:text-gray-400 leading-relaxed line-clamp-2">
         {app.description}
       </p>
 
-      <div className="flex flex-wrap gap-1.5 mt-auto pt-1">
-        {app.tags.slice(0, 4).map((tag) => (
+      <div className="flex flex-wrap gap-1 mt-auto">
+        {app.tags.slice(0, 3).map((tag) => (
           <span
             key={tag}
-            className="text-xs px-2 py-0.5 rounded-full bg-gray-100 dark:bg-gray-700 text-gray-500 dark:text-gray-400"
+            className="text-[10px] px-1.5 py-0.5 rounded bg-gray-50 dark:bg-[#252838] text-gray-400 dark:text-gray-500"
           >
-            #{tag}
+            {tag}
           </span>
         ))}
       </div>
