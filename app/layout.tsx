@@ -5,12 +5,16 @@ import ClarityInit from "@/components/ClarityInit";
 import Script from "next/script";
 
 export const metadata: Metadata = {
-  title: "🌴 ആപ്പ് ഉണ്ടോ? — Kerala Apps Directory | appundo.in",
+  title: "ആപ്പ് ഉണ്ടോ? | Kerala Apps Directory | appundo.in",
   description:
     "ആപ്പ് ഉണ്ടോ? Discover useful web apps and tools built for Kerala",
   keywords: ["kerala", "web apps", "directory", "tools", "malayalam"],
+  icons: {
+    icon: "/favicon.svg",
+    apple: "/apple-touch-icon.svg",
+  },
   openGraph: {
-    title: "🌴 Kerala Apps Directory",
+    title: "Kerala Apps Directory",
     description: "A curated directory of hyper-local web utilities and community-built tools across Kerala.",
     url: "https://appundo.in",
     siteName: "appundo.in",
