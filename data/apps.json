@@ -20,6 +20,8 @@
     "tags": ["rain", "weather", "forecast"],
     "addedBy": "admin",
     "addedAt": "2024-01-02",
+    "creator": "Akhil",
+    "creatorUrl": "https://www.youtube.com",
     "icon": "🌧️"
   },
   {
@@ -122,7 +124,7 @@
     "url": "https://policeundo.lovable.app/",
     "category": "Transport",
     "categoryTags": ["Und/ഉണ്ട്"],
-    "tags": ["police","accidents", "floods"],
+    "tags": ["police", "accidents", "floods"],
     "addedBy": "admin",
     "icon": "🚓"
   },
@@ -164,7 +166,9 @@
     "category": "Transport",
     "tags": ["transport", "fare", "calculator"],
     "addedBy": "admin",
-    "icon": "🚕"
+    "icon": "🚕",
+    "creator": "Amith",
+    "creatorUrl": "https://amithv.xyz/"
   },
   {
     "id": "sitinshade",
@@ -257,7 +261,7 @@
     "categoryTags": ["Und/ഉണ്ട്"],
     "tags": ["transport", "bus", "timings"],
     "addedBy": "admin",
-    "icon":"🚌"
+    "icon": "🚌"
   },
   {
     "id": "explorekerala",
@@ -277,7 +281,9 @@
     "category": "Travel",
     "tags": ["chaya", "kerala", "spot"],
     "addedBy": "admin",
-    "icon": "☕️"
+    "icon": "☕️",
+    "creator": "Adithyan K",
+    "creatorUrl": "https://adithyank.dev/"
   },
   {
     "id": "keralatrak",
@@ -379,7 +385,9 @@
     "categoryTags": ["Und/ഉണ്ട്"],
     "tags": ["blood", "donation", "community"],
     "addedBy": "admin",
-    "icon": "🏥"
+    "icon": "🏥",
+    "creator": "shuhaib",
+    "creatorUrl": "https://www.instagram.com/shuhaiiib_._"
   },
   {
     "id": "rationundo",
@@ -476,7 +484,9 @@
     "categoryTags": ["Und/ഉണ്ട്"],
     "tags": ["gym", "kerala", "location"],
     "addedBy": "admin",
-    "icon": "🏋️"
+    "icon": "🏋️",
+    "creator": "Karthik Krishnan",
+    "creatorUrl": "https://github.com/iamkarthik2004"
   },
   {
     "id": "chavarundo",
@@ -520,7 +530,9 @@
     "categoryTags": ["Und/ഉണ്ട്"],
     "tags": ["food", "kerala", "location"],
     "addedBy": "admin",
-    "icon": "🥗"
+    "icon": "🥗",
+    "creator": "Aadi",
+    "creatorUrl": "https://aadidev.vercel.app"
   },
   {
     "id": "screeningundo",

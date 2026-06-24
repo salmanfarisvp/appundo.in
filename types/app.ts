@@ -27,6 +27,8 @@ export interface App {
   addedBy?: string;
   addedAt?: string;
   icon?: string;
+  creator?: string;
+  creatorUrl?: string;
 }
 
 export function isValidApp(obj: unknown): obj is App {
