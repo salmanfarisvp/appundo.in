@@ -5,8 +5,15 @@
     "description": "Find restaurants open in Ernakulam, limited-menu updates, and closures in real time.",
     "url": "https://www.gasundo.live/",
     "category": "Utilities",
-    "categoryTags": ["Und/ഉണ്ട്"],
-    "tags": ["kerala", "lpg", "gas", "hotel"],
+    "categoryTags": [
+      "Und/ഉണ്ട്"
+    ],
+    "tags": [
+      "kerala",
+      "lpg",
+      "gas",
+      "hotel"
+    ],
     "addedBy": "admin",
     "addedAt": "2024-01-01",
     "icon": "⛽️"
@@ -17,7 +24,11 @@
     "description": "Crowdsourced Hyperlocal rainfall data and weather updates for Kerala, Know when it will rain near you.",
     "url": "https://www.mazha.live/",
     "category": "Weather",
-    "tags": ["rain", "weather", "forecast"],
+    "tags": [
+      "rain",
+      "weather",
+      "forecast"
+    ],
     "addedBy": "admin",
     "addedAt": "2024-01-02",
     "icon": "🌧️"
@@ -28,8 +39,14 @@
     "description": "Community-driven map where residents of Kerala can report, track, and vote on road potholes in their area",
     "url": "https://kuzhiyundo.com/",
     "category": "Transport",
-    "categoryTags": ["Und/ഉണ്ട്"],
-    "tags": ["road", "pothole", "map"],
+    "categoryTags": [
+      "Und/ഉണ്ട്"
+    ],
+    "tags": [
+      "road",
+      "pothole",
+      "map"
+    ],
     "addedBy": "admin",
     "icon": "🚧"
   },
@@ -39,7 +56,11 @@
     "description": "What's happening in Kerala, news, events, weather, movies, and more",
     "url": "https://what-s-happening-in-kerala.vercel.app/",
     "category": "News",
-    "tags": ["news", "events", "calendar"],
+    "tags": [
+      "news",
+      "events",
+      "calendar"
+    ],
     "addedBy": "admin",
     "icon": "📰"
   },
@@ -49,7 +70,11 @@
     "description": "പരാതിപ്പെട്ടി. Kerala's public complaint box, on WhatsApp",
     "url": "https://parathipetty.com/",
     "category": "Govt",
-    "tags": ["parathipetty", "complaint", "whatsapp"],
+    "tags": [
+      "parathipetty",
+      "complaint",
+      "whatsapp"
+    ],
     "addedBy": "admin",
     "icon": "✉️"
   },
@@ -59,8 +84,14 @@
     "description": "നിങ്ങളുടെ പ്രദേശത്ത് കറന്റ് പോയോ? — Know the electricity status in your area",
     "url": "https://currentundo.com/",
     "category": "Utilities",
-    "categoryTags": ["Und/ഉണ്ട്"],
-    "tags": ["current", "electricity", "power"],
+    "categoryTags": [
+      "Und/ഉണ്ട്"
+    ],
+    "tags": [
+      "current",
+      "electricity",
+      "power"
+    ],
     "addedBy": "admin",
     "icon": "⚡️"
   },
@@ -70,7 +101,11 @@
     "description": "Know the kerala dam water level status in real time",
     "url": "https://dams.keralam.co/",
     "category": "Weather",
-    "tags": ["news", "water", "level"],
+    "tags": [
+      "news",
+      "water",
+      "level"
+    ],
     "addedBy": "admin",
     "icon": "🌊"
   },
@@ -80,8 +115,14 @@
     "description": "Real-time rain status for Kerala",
     "url": "https://mazhaundo.in/",
     "category": "Weather",
-    "categoryTags": ["Und/ഉണ്ട്"],
-    "tags": ["rain", "weather", "forecast"],
+    "categoryTags": [
+      "Und/ഉണ്ട്"
+    ],
+    "tags": [
+      "rain",
+      "weather",
+      "forecast"
+    ],
     "addedBy": "admin",
     "icon": "🌧️"
   },
@@ -91,7 +132,11 @@
     "description": "നിങ്ങളുടെ അടുത്തുള്ള വിശ്വസ്ത ഹോം സർവീസുകൾ ബുക്ക് ചെയ്യൂ.",
     "url": "https://naatilepani.com/",
     "category": "Tools",
-    "tags": ["home", "service", "book"],
+    "tags": [
+      "home",
+      "service",
+      "book"
+    ],
     "addedBy": "admin",
     "icon": "🛠️"
   },
@@ -101,7 +146,11 @@
     "description": "യുഡിഎഫിന്റെ വാക്ക് പറഞ്ഞത് എന്ത്, ചെയ്തത് എന്ത് / Tracking Every Promise Made by UDF to the People of Kerala",
     "url": "https://www.vakku.in/",
     "category": "Govt",
-    "tags": ["promise", "government", "politics"],
+    "tags": [
+      "promise",
+      "government",
+      "politics"
+    ],
     "addedBy": "admin",
     "icon": "🎤"
   },
@@ -111,7 +160,11 @@
     "description": "Promote transparency and public understanding of the work of Kerala MLAs",
     "url": "https://mlatrack.com/",
     "category": "Govt",
-    "tags": ["mla", "government", "politics"],
+    "tags": [
+      "mla",
+      "government",
+      "politics"
+    ],
     "addedBy": "admin",
     "icon": "🔎"
   },
@@ -121,8 +174,14 @@
     "description": "Know what's ahead,before you ride. Community-powered live alerts for police checking, MVD, accidents, floods and potholes. Built by riders, for Kerala roads.",
     "url": "https://policeundo.lovable.app/",
     "category": "Transport",
-    "categoryTags": ["Und/ഉണ്ട്"],
-    "tags": ["police","accidents", "floods"],
+    "categoryTags": [
+      "Und/ഉണ്ട്"
+    ],
+    "tags": [
+      "police",
+      "accidents",
+      "floods"
+    ],
     "addedBy": "admin",
     "icon": "🚓"
   },
@@ -132,7 +191,11 @@
     "description": "Every mandi matters. Log your mandi sessions, mayo decisions, and soft drink damage.",
     "url": "https://mandi.theeta.in/",
     "category": "Health",
-    "tags": ["food", "health", "mandi"],
+    "tags": [
+      "food",
+      "health",
+      "mandi"
+    ],
     "addedBy": "admin",
     "icon": "🍛"
   },
@@ -142,7 +205,11 @@
     "description": "Kerala public holidays, bank holidays, school holidays, and more",
     "url": "https://holidayskerala.in/",
     "category": "Tools",
-    "tags": ["public", "calendar", "holidays"],
+    "tags": [
+      "public",
+      "calendar",
+      "holidays"
+    ],
     "addedBy": "admin",
     "icon": "🗓️"
   },
@@ -152,7 +219,11 @@
     "description": "An online board where all the 'vagdanams' (promises) made by political parties are listed.",
     "url": "https://vagdanam.delb.in/",
     "category": "Govt",
-    "tags": ["promise", "government", "politics"],
+    "tags": [
+      "promise",
+      "government",
+      "politics"
+    ],
     "addedBy": "admin",
     "icon": "🤝"
   },
@@ -162,7 +233,11 @@
     "description": "Calculate the fare for your Auto, Bus or Taxi ride in Kerala",
     "url": "https://autofare.keralam.co/",
     "category": "Transport",
-    "tags": ["transport", "fare", "calculator"],
+    "tags": [
+      "transport",
+      "fare",
+      "calculator"
+    ],
     "addedBy": "admin",
     "icon": "🚕"
   },
@@ -172,7 +247,11 @@
     "description": "Find Best Seat to Minimize Sun Exposure While Traveling",
     "url": "https://sitinshade.com/",
     "category": "Transport",
-    "tags": ["transport", "seat", "shade"],
+    "tags": [
+      "transport",
+      "seat",
+      "shade"
+    ],
     "addedBy": "admin",
     "icon": "🌤️"
   },
@@ -182,7 +261,11 @@
     "description": "Community-driven public transport network. Find KSRTC and Private bus timings, stops, and routes easily.",
     "url": "https://evidebus.com/",
     "category": "Transport",
-    "tags": ["transport", "bus", "timings"],
+    "tags": [
+      "transport",
+      "bus",
+      "timings"
+    ],
     "addedBy": "admin",
     "icon": "🚌"
   },
@@ -192,8 +275,14 @@
     "description": "പെണ്ണുണ്ടോ - കല്യാണം ആലോചിക്കുന്നുണ്ടോ? മലയാളികൾക്കിടയിൽ പേരെടുത്ത മാട്രിമോണി സൈറ്റുകളും, ജീവിതപങ്കാളിയെ കണ്ടെത്താൻ സഹായിക്കുന്ന ആപ്പുകളും ഇവിടെ കാണാം. സമുദായം നോക്കി എളുപ്പത്തിൽ താരതമ്യം ചെയ്യാം.",
     "url": "https://pennundo.in/",
     "category": "Community",
-    "categoryTags": ["Und/ഉണ്ട്"],
-    "tags": ["community", "life", "marriage"],
+    "categoryTags": [
+      "Und/ഉണ്ട്"
+    ],
+    "tags": [
+      "community",
+      "life",
+      "marriage"
+    ],
     "addedBy": "admin",
     "icon": "💍"
   },
@@ -203,7 +292,11 @@
     "description": "വെയിൽ - Finding the perfect seat to avoid the sun, one journey at a time.",
     "url": "https://veyil.app/",
     "category": "Transport",
-    "tags": ["transport", "seat", "shade"],
+    "tags": [
+      "transport",
+      "seat",
+      "shade"
+    ],
     "addedBy": "admin",
     "icon": "🌤️"
   },
@@ -213,7 +306,11 @@
     "description": "യു.ഡി.എഫ് വാഗ്ദാനങ്ങൾ UDF Manifesto Tracker.",
     "url": "https://govt-promises.vercel.app/",
     "category": "Govt",
-    "tags": ["promise", "government", "politics"],
+    "tags": [
+      "promise",
+      "government",
+      "politics"
+    ],
     "addedBy": "admin",
     "icon": "📝"
   },
@@ -223,8 +320,14 @@
     "description": "ജോലി ഉണ്ടോ? - The platform with jobs, startups, remote work & internships for Malayali students, graduates & job seekers. ",
     "url": "https://www.joliundo.in/",
     "category": "Jobs",
-    "categoryTags": ["Und/ഉണ്ട്"],
-    "tags": ["jobs", "startups", "work"],
+    "categoryTags": [
+      "Und/ഉണ്ട്"
+    ],
+    "tags": [
+      "jobs",
+      "startups",
+      "work"
+    ],
     "addedBy": "admin",
     "icon": "💼"
   },
@@ -234,7 +337,11 @@
     "description": "RAKSHA is a Malayalam-first, mobile-friendly disaster intelligence network. It empowers citizens to instantly report floods, landslides, blocked roads, and rising water levels directly from the ground—providing hyperlocal, real-time safety mapping.",
     "url": "https://rakshalive.vercel.app/",
     "category": "Tools",
-    "tags": ["floods", "landslides", "safety"],
+    "tags": [
+      "floods",
+      "landslides",
+      "safety"
+    ],
     "addedBy": "admin",
     "icon": "🚨"
   },
@@ -244,7 +351,11 @@
     "description": "Digitalised Childhood kallanum policeum game",
     "url": "https://www.kallanumpoliceum.online/",
     "category": "Utilities",
-    "tags": ["game", "board", "fun"],
+    "tags": [
+      "game",
+      "board",
+      "fun"
+    ],
     "addedBy": "admin",
     "icon": "🧩"
   },
@@ -254,10 +365,16 @@
     "description": "Community-powered bus data for Kerala",
     "url": "https://busundo.in/",
     "category": "Transport",
-    "categoryTags": ["Und/ഉണ്ട്"],
-    "tags": ["transport", "bus", "timings"],
+    "categoryTags": [
+      "Und/ഉണ്ട്"
+    ],
+    "tags": [
+      "transport",
+      "bus",
+      "timings"
+    ],
     "addedBy": "admin",
-    "icon":"🚌"
+    "icon": "🚌"
   },
   {
     "id": "explorekerala",
@@ -265,7 +382,11 @@
     "description": "Community-driven map of 100+ hidden gems — waterfalls, forts, backwaters, and beaches across God's Own Country.",
     "url": "https://www.explorekerala.live/",
     "category": "Travel",
-    "tags": ["directory", "tools", "kerala"],
+    "tags": [
+      "directory",
+      "tools",
+      "kerala"
+    ],
     "addedBy": "admin",
     "icon": "🗺️"
   },
@@ -275,7 +396,11 @@
     "description": "ഒരു നല്ല ചായ കുടിച്ചാലോ? - Community-driven map of Chaya spots in Kerala",
     "url": "https://www.chayaspot.in/",
     "category": "Travel",
-    "tags": ["chaya", "kerala", "spot"],
+    "tags": [
+      "chaya",
+      "kerala",
+      "spot"
+    ],
     "addedBy": "admin",
     "icon": "☕️"
   },
@@ -285,7 +410,11 @@
     "description": "A List of Breathtaking Mountains of Kerala",
     "url": "https://keralatrak.in/",
     "category": "Travel",
-    "tags": ["mountains", "kerala", "trek"],
+    "tags": [
+      "mountains",
+      "kerala",
+      "trek"
+    ],
     "addedBy": "admin",
     "icon": "⛰️"
   },
@@ -295,8 +424,14 @@
     "description": "Community-driven gifting space where your pre-loved items find new homes. No buying, no selling, no clutter just the simple joy of sharing.",
     "url": "https://www.sanamundo.online/",
     "category": "Community",
-    "categoryTags": ["Und/ഉണ്ട്"],
-    "tags": ["gifting", "kerala", "sharing"],
+    "categoryTags": [
+      "Und/ഉണ്ട്"
+    ],
+    "tags": [
+      "gifting",
+      "kerala",
+      "sharing"
+    ],
     "addedBy": "admin",
     "icon": "🎁"
   },
@@ -306,7 +441,11 @@
     "description": "കേരളത്തിലെ പുതിയ സർക്കാർ നൽകിയ വാഗ്ദാനങ്ങൾ — ഓരോന്നായി. എപ്പോൾ വേണമെങ്കിലും തിരയാം, പരിശോധിക്കാം.",
     "url": "https://vaagdaanam.keralaballot.in/",
     "category": "Govt",
-    "tags": ["promise", "government", "politics"],
+    "tags": [
+      "promise",
+      "government",
+      "politics"
+    ],
     "addedBy": "admin",
     "icon": "📝"
   },
@@ -316,7 +455,11 @@
     "description": "Swagatham, Pravasi! - Your essential daily pulse, bridging the distance from global horizons to the heart of God's Own Country. ",
     "url": "https://pathemari.vercel.app/",
     "category": "Community",
-    "tags": ["community", "kerala", "NRI"],
+    "tags": [
+      "community",
+      "kerala",
+      "NRI"
+    ],
     "addedBy": "admin",
     "icon": "🌍"
   },
@@ -326,7 +469,11 @@
     "description": "ഇന്ന് തുണി പുറത്തിട്ടാൽ ഉണങ്ങുമോ ഇല്ലയോ?",
     "url": "https://laundrytoday.vercel.app/",
     "category": "Tools",
-    "tags": ["laundry", "kerala", "today"],
+    "tags": [
+      "laundry",
+      "kerala",
+      "today"
+    ],
     "addedBy": "admin",
     "icon": "🧺"
   },
@@ -336,7 +483,11 @@
     "description": "Find your perfect telecom plan for your needs.",
     "url": "https://muttayi.com/",
     "category": "Tools",
-    "tags": ["kerala", "telecom", "plan"],
+    "tags": [
+      "kerala",
+      "telecom",
+      "plan"
+    ],
     "addedBy": "admin",
     "icon": "📞"
   },
@@ -346,7 +497,11 @@
     "description": "The official digital community portal for Nilambur",
     "url": "https://nilambur.in/",
     "category": "Community",
-    "tags": ["community", "nilambur", "connect"],
+    "tags": [
+      "community",
+      "nilambur",
+      "connect"
+    ],
     "addedBy": "admin",
     "icon": "📍"
   },
@@ -356,7 +511,11 @@
     "description": "ഹർത്താൽ റിപ്പോർട്ടർ - Kerala Hartal Tracker",
     "url": "https://harthal.netlify.app/",
     "category": "Community",
-    "tags": ["harthal", "kerala", "tracker"],
+    "tags": [
+      "harthal",
+      "kerala",
+      "tracker"
+    ],
     "addedBy": "admin",
     "icon": "🚧"
   },
@@ -366,7 +525,11 @@
     "description": "ഇനി എത്ര നാൾ? - Time is ticking...",
     "url": "https://ml.lifeleft.in//",
     "category": "Tools",
-    "tags": ["life", "left", "time"],
+    "tags": [
+      "life",
+      "left",
+      "time"
+    ],
     "addedBy": "admin",
     "icon": "🕒"
   },
@@ -376,8 +539,14 @@
     "description": "Real-time emergency blood donation matching and community life-saving alerts. Powered by the people, for the people.",
     "url": "https://bloodundo.vercel.app/",
     "category": "Community",
-    "categoryTags": ["Und/ഉണ്ട്"],
-    "tags": ["blood", "donation", "community"],
+    "categoryTags": [
+      "Und/ഉണ്ട്"
+    ],
+    "tags": [
+      "blood",
+      "donation",
+      "community"
+    ],
     "addedBy": "admin",
     "icon": "🏥"
   },
@@ -387,8 +556,14 @@
     "description": "റേഷൻ കടകളിലെ സ്റ്റോക്ക് വിവരങ്ങൾ എളുപ്പത്തിൽ പരിശോധിക്കാൻ RationUndo, പിൻകോഡ്, സ്ഥലനാമം അല്ലെങ്കിൽ കട നമ്പർ ഉപയോഗിച്ച് സ്റ്റോക്ക് വിവരങ്ങൾ നോക്കാം.",
     "url": "https://rationundo.onrender.com",
     "category": "Utilities",
-    "categoryTags": ["Und/ഉണ്ട്"],
-    "tags": ["ration", "stock", "location"],
+    "categoryTags": [
+      "Und/ഉണ്ട്"
+    ],
+    "tags": [
+      "ration",
+      "stock",
+      "location"
+    ],
     "addedBy": "admin",
     "icon": "🛒"
   },
@@ -398,8 +573,14 @@
     "description": "വഴികാട്ടി 'the one who shows the way.' Understand laws, access government services, obtain certificates and licenses, register a business, and navigate official procedures — clearly and honestly.",
     "url": "https://vazhikaatti-ai.lovable.app/",
     "category": "Govt",
-    "categoryTags": ["Und/ഉണ്ട്"],
-    "tags": ["government", "services", "location"],
+    "categoryTags": [
+      "Und/ഉണ്ട്"
+    ],
+    "tags": [
+      "government",
+      "services",
+      "location"
+    ],
     "addedBy": "admin",
     "icon": "🧭"
   },
@@ -409,7 +590,11 @@
     "description": "Events in Kerala around you",
     "url": "https://happeningsaroundme.in/",
     "category": "Community",
-    "tags": ["events", "kerala", "around"],
+    "tags": [
+      "events",
+      "kerala",
+      "around"
+    ],
     "addedBy": "admin",
     "icon": "🎊"
   },
@@ -419,8 +604,14 @@
     "description": "കേരളത്തിലെ ഇവന്റുകൾ - നിങ്ങൾക്കു സമീപമുള്ള പുതിയ ഇവന്റുകൾ കണ്ടെത്താനും പങ്കിടാനും ഒരു ലളിതമായ പ്ലാറ്റ്ഫോം.",
     "url": "https://eventundo.in/",
     "category": "Community",
-    "categoryTags": ["Und/ഉണ്ട്"],
-    "tags": ["events", "kerala", "around"],
+    "categoryTags": [
+      "Und/ഉണ്ട്"
+    ],
+    "tags": [
+      "events",
+      "kerala",
+      "around"
+    ],
     "addedBy": "admin",
     "icon": "🎊"
   },
@@ -430,8 +621,14 @@
     "description": "മഴയുണ്ടോ? തത്സമയ മഴ നില · കേരളം",
     "url": "https://mazhayundo.vercel.app/",
     "category": "Weather",
-    "categoryTags": ["Und/ഉണ്ട്"],
-    "tags": ["rain", "weather", "forecast"],
+    "categoryTags": [
+      "Und/ഉണ്ട്"
+    ],
+    "tags": [
+      "rain",
+      "weather",
+      "forecast"
+    ],
     "addedBy": "admin",
     "icon": "🌧️"
   },
@@ -441,7 +638,11 @@
     "description": "Bachelor-friendly rentals across Kochi — found faster, without the broker runaround.",
     "url": "https://www.flatundo.in/",
     "category": "Community",
-    "tags": ["housing", "kochi", "rent"],
+    "tags": [
+      "housing",
+      "kochi",
+      "rent"
+    ],
     "addedBy": "admin",
     "icon": "🏢"
   },
@@ -451,8 +652,14 @@
     "description": "A crowdsourced map of wifi spots across Kerala. Find the nearest spot, check speed and crowd level, and go. Pinned by real people who’ve actually connected there.",
     "url": "https://wifiundo.vercel.app/",
     "category": "Tools",
-    "categoryTags": ["Und/ഉണ്ട്"],
-    "tags": ["wifi", "kerala", "location"],
+    "categoryTags": [
+      "Und/ഉണ്ട്"
+    ],
+    "tags": [
+      "wifi",
+      "kerala",
+      "location"
+    ],
     "addedBy": "admin",
     "icon": "🛜"
   },
@@ -461,9 +668,15 @@
     "name": "Netspeedundo.vercel.app",
     "description": "Internet speed mapping, users run speed test and app stores the data , and shows on map",
     "url": "https://netspeedundo.vercel.app/",
-    "categoryTags": ["Und/ഉണ്ട്"],
+    "categoryTags": [
+      "Und/ഉണ്ട്"
+    ],
     "category": "Tools",
-    "tags": ["speed", "internet", "location"],
+    "tags": [
+      "speed",
+      "internet",
+      "location"
+    ],
     "addedBy": "admin",
     "icon": "📶"
   },
@@ -473,8 +686,14 @@
     "description": "Kerala-based gym directory that helps users discover gyms district-wise with maps, contact details, photos, and location information.",
     "url": "https://gymundo.vercel.app/",
     "category": "Tools",
-    "categoryTags": ["Und/ഉണ്ട്"],
-    "tags": ["gym", "kerala", "location"],
+    "categoryTags": [
+      "Und/ഉണ്ട്"
+    ],
+    "tags": [
+      "gym",
+      "kerala",
+      "location"
+    ],
     "addedBy": "admin",
     "icon": "🏋️"
   },
@@ -484,8 +703,14 @@
     "description": "Chavarundo is a community-driven platform that helps people report and track public waste and garbage locations across Kerala. Take a photo, pinpoint the location, and help create cleaner neighborhoods through collective action.",
     "url": "https://chavarundo.open2.in/",
     "category": "Utilities",
-    "categoryTags": ["Und/ഉണ്ട്"],
-    "tags": ["waste", "kerala", "location"],
+    "categoryTags": [
+      "Und/ഉണ്ട്"
+    ],
+    "tags": [
+      "waste",
+      "kerala",
+      "location"
+    ],
     "addedBy": "admin",
     "icon": "🚮"
   },
@@ -495,8 +720,14 @@
     "description": "A modern PG (Paying Guest) discovery platform that helps users find, compare, and review affordable accommodations with ease. It provides detailed listings, ratings, photos, and reviews to make choosing the right stay faster and more transparent.",
     "url": "https://pgundo.vercel.app/",
     "category": "Community",
-    "categoryTags": ["Und/ഉണ്ട്"],
-    "tags": ["pg", "kerala", "location"],
+    "categoryTags": [
+      "Und/ഉണ്ട്"
+    ],
+    "tags": [
+      "pg",
+      "kerala",
+      "location"
+    ],
     "addedBy": "admin",
     "icon": "🛌"
   },
@@ -506,8 +737,14 @@
     "description": "The movies undo app is made for mallus to get an overall idea of whats flowing through the film industry with beautiful meta data from public sources like imdb etc... NB: Not a streaming site : )",
     "url": "https://movies-undo.vercel.app",
     "category": "Community",
-    "categoryTags": ["Und/ഉണ്ട്"],
-    "tags": ["movies", "kerala", "location"],
+    "categoryTags": [
+      "Und/ഉണ്ട്"
+    ],
+    "tags": [
+      "movies",
+      "kerala",
+      "location"
+    ],
     "addedBy": "admin",
     "icon": "🎥"
   },
@@ -517,8 +754,14 @@
     "description": "Real-time food availability — Mandhi, Biriyani, Porotta & more — mapped by locals, for locals.",
     "url": "https://foodundo.vercel.app",
     "category": "Tools",
-    "categoryTags": ["Und/ഉണ്ട്"],
-    "tags": ["food", "kerala", "location"],
+    "categoryTags": [
+      "Und/ഉണ്ട്"
+    ],
+    "tags": [
+      "food",
+      "kerala",
+      "location"
+    ],
     "addedBy": "admin",
     "icon": "🥗"
   },
@@ -528,8 +771,14 @@
     "description": "കേരളത്തിലെ ഫുട്ബോൾ ആരാധകർക്ക് സ്ക്രീനിംഗ് സ്ഥലങ്ങൾ ഒറ്റക്കണ്ണിൽ.",
     "url": "https://www.screeningundo.in/",
     "category": "Community",
-    "categoryTags": ["Und/ഉണ്ട്"],
-    "tags": ["screening", "kerala", "football"],
+    "categoryTags": [
+      "Und/ഉണ്ട്"
+    ],
+    "tags": [
+      "screening",
+      "kerala",
+      "football"
+    ],
     "addedBy": "admin",
     "icon": "⚽️"
   },
@@ -539,7 +788,11 @@
     "description": "Chayakudichalo matches you with a chai partner nearby — just tell us when and where you're free, and we'll find someone to grab chai with. No profiles, no swiping. Just chai, a time, and a place. This is the new way of networking and finding new ones.",
     "url": "https://v0-chai-partner-app.vercel.app/",
     "category": "Community",
-    "tags": ["chai", "kerala", "location"],
+    "tags": [
+      "chai",
+      "kerala",
+      "location"
+    ],
     "addedBy": "admin",
     "icon": "☕️"
   },
@@ -549,8 +802,14 @@
     "description": "A completely free and open-source platform for finding and verifying hostels near your campus.",
     "url": "https://leavundo.pages.dev/",
     "category": "Community",
-    "categoryTags": ["Und/ഉണ്ട്"],
-    "tags": ["leave", "kerala", "location"],
+    "categoryTags": [
+      "Und/ഉണ്ട്"
+    ],
+    "tags": [
+      "leave",
+      "kerala",
+      "location"
+    ],
     "addedBy": "admin",
     "icon": "📖"
   },
@@ -560,7 +819,11 @@
     "description": "A completely free and open-source platform for finding and verifying hostels near your campus.",
     "url": "https://koodaram.vercel.app/",
     "category": "Tools",
-    "tags": ["housing", "tracker", "location"],
+    "tags": [
+      "housing",
+      "tracker",
+      "location"
+    ],
     "addedBy": "admin",
     "icon": "🛌"
   },
@@ -570,8 +833,14 @@
     "description": "GateUndo is a Kerala railway gate status app, currently focused on Kannur beta. It shows last community-reported gate status, nearby trust signals, map view, and gate suggestions. Status is conservative and safety-first: every update is only a last community report, and users must always obey physical railway signals and barriers.",
     "url": "https://gateundo.vercel.app/",
     "category": "Transport",
-    "categoryTags": ["Und/ഉണ്ട്"],
-    "tags": ["train", "railway", "location"],
+    "categoryTags": [
+      "Und/ഉണ്ട്"
+    ],
+    "tags": [
+      "train",
+      "railway",
+      "location"
+    ],
     "addedBy": "admin",
     "icon": "🚂"
   },
@@ -581,7 +850,11 @@
     "description": "റോഡ് സുരക്ഷാ & എ ഐ ക്യാമറ വിവരങ്ങൾ - കേരളത്തിലെ റോഡുകളിൽ സുരക്ഷിതമായ ഡ്രൈവിംഗ് ശീലങ്ങളും ട്രാഫിക് നിയമപാലനവും പ്രോത്സാഹിപ്പിക്കുന്നു.",
     "url": "https://safedrivekeralam.jomin.dev/",
     "category": "Transport",
-    "tags": ["road", "safety", "traffic"],
+    "tags": [
+      "road",
+      "safety",
+      "traffic"
+    ],
     "addedBy": "admin",
     "icon": "🚦"
   },
@@ -591,8 +864,13 @@
     "description": "A completely free and open-source platform for finding and verifying hostels near your campus.",
     "url": "https://marunnundo.vercel.app/",
     "category": "Community",
-    "categoryTags": ["Und/ഉണ്ട്"],
-    "tags": ["medicines", "pharmacy"],
+    "categoryTags": [
+      "Und/ഉണ്ട്"
+    ],
+    "tags": [
+      "medicines",
+      "pharmacy"
+    ],
     "addedBy": "admin",
     "icon": "💊"
   },
@@ -602,8 +880,14 @@
     "description": "A travel community for India's explorers. Discover hidden gems, find travel partners, plan trips together, and share your stories.",
     "url": "https://orutrippokamundo.co.in/",
     "category": "Community",
-    "categoryTags": ["Und/ഉണ്ട്"],
-    "tags": ["trip", "kerala", "location"],
+    "categoryTags": [
+      "Und/ഉണ്ട്"
+    ],
+    "tags": [
+      "trip",
+      "kerala",
+      "location"
+    ],
     "addedBy": "admin",
     "icon": "🏞️"
   },
@@ -613,7 +897,11 @@
     "description": "Where to pee? A crowdsourced map of public restrooms across the state. Find the nearest restroom, check availability, and go. Pinned by real people who've actually used it.",
     "url": "https://wheretopee.lovable.app/",
     "category": "Tools",
-    "tags": ["pee", "restroom", "location"],
+    "tags": [
+      "pee",
+      "restroom",
+      "location"
+    ],
     "addedBy": "admin",
     "icon": "🚽"
   },
@@ -623,8 +911,14 @@
     "description": "A Hand-picked collection of podcast episodes from Simon Sinek, Mel Robbins, and Dr. Gabor Maté for moments when you need clarity, motivation, or calm. Free, no login, works on any device.",
     "url": "https://samadhanam-undo.vercel.app/",
     "category": "Tools",
-    "categoryTags": ["Und/ഉണ്ട്"],
-    "tags": ["peace", "podcast", "mindfulness"],
+    "categoryTags": [
+      "Und/ഉണ്ട്"
+    ],
+    "tags": [
+      "peace",
+      "podcast",
+      "mindfulness"
+    ],
     "addedBy": "admin",
     "icon": "☮️"
   },
@@ -634,8 +928,14 @@
     "description": "Community-powered app that shows real mobile network coverage across Kerala. Find 5G areas, call-drop zones, and dead spots based on reports from real users.",
     "url": "https://netundo.vercel.app/",
     "category": "Tools",
-    "categoryTags": ["Und/ഉണ്ട്"],
-    "tags": ["network", "coverage", "location"],
+    "categoryTags": [
+      "Und/ഉണ്ട്"
+    ],
+    "tags": [
+      "network",
+      "coverage",
+      "location"
+    ],
     "addedBy": "admin",
     "icon": "📶"
   },
@@ -645,8 +945,14 @@
     "description": "MazhaUndo helps you check if you'll encounter rain during your journey, find the best time to leave, and travel smarter with route-based weather insights",
     "url": "https://mazhapeyyo.live/",
     "category": "Weather",
-    "categoryTags": ["Und/ഉണ്ട്"],
-    "tags": ["rain", "weather", "forecast"],
+    "categoryTags": [
+      "Und/ഉണ്ട്"
+    ],
+    "tags": [
+      "rain",
+      "weather",
+      "forecast"
+    ],
     "addedBy": "admin",
     "icon": "🌧️"
   },
@@ -656,7 +962,11 @@
     "description": "Real-time Kerala market rates for vegetables, fish, fuel, gold, groceries and more — powered by community contributions.",
     "url": "https://keralavipani.abidts.work/",
     "category": "Utilities",
-    "tags": ["market", "rates", "location"],
+    "tags": [
+      "market",
+      "rates",
+      "location"
+    ],
     "addedBy": "admin",
     "icon": "🛒"
   },
@@ -666,8 +976,14 @@
     "description": "A crowdsourced local music and gig finder. Open the portal, check what's live around you, and go. Anyone can pin a gig in seconds-no logins, no endless sign-up forms. Just real programs, by real people, found instantly.",
     "url": "https://www.concertundo.online/",
     "category": "Utilities",
-    "categoryTags": ["Und/ഉണ്ട്"],
-    "tags": ["music", "events", "location"],
+    "categoryTags": [
+      "Und/ഉണ്ട്"
+    ],
+    "tags": [
+      "music",
+      "events",
+      "location"
+    ],
     "addedBy": "admin",
     "icon": "🎤"
   },
@@ -677,9 +993,30 @@
     "description": "An interactive web platform that combines entertainment, gamification, and social engagement into a unique digital experience. The platform offers users a collection of luck-inspired mini-games, daily challenges, and reward-based activities designed to make every visit fun and engaging.",
     "url": "https://www.luckundo.xyz/",
     "category": "Tools",
-    "categoryTags": ["Und/ഉണ്ട്"],
-    "tags": ["luck", "games", "location"],
+    "categoryTags": [
+      "Und/ഉണ്ട്"
+    ],
+    "tags": [
+      "luck",
+      "games",
+      "location"
+    ],
     "addedBy": "admin",
     "icon": "🤞"
+  },
+  {
+    "id": "gameundo",
+    "name": "gameundo.vercel.app",
+    "description": "A sleek gaming hub built for players who like to stay ahead of what’s trending, upcoming, and worth playing next. With a clean dashboard experience powered by IGDB, it brings game data, discovery, and tracking together in one fast, modern interface.",
+    "url": "https://gameundo.vercel.app/",
+    "category": "Tools",
+    "categoryTags": [
+      "Und/ഉണ്ട്"
+    ],
+    "tags": [
+      "games"
+    ],
+    "addedBy": "Prathewsh",
+    "icon": "🎮"
   }
 ]
